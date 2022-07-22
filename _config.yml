@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Mark Cordell"
   # tagline will appear under the title (optional)
-  tagline: "Software Engineer At Twitch"
+  tagline: "Software Engineer At Snorkel AI"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -18,7 +18,7 @@ compass:
   # Tracking Code to that file.
   include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
-  twitter: "thelinuxmark"
+  # twitter: "thelinuxmark"
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
